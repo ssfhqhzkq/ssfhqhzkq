@@ -1,8 +1,8 @@
 my_test comit
 1
-<<<<<<< HEAD
-=======
+
+
 2
 3
 45555
->>>>>>> c800b9236e6dc467eae2e43883b2736e77d4dbad
+c800b9236e6dc467eae2e43883b2736e77d4dbad
